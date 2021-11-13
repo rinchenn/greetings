@@ -2,3 +2,5 @@ venv/
 scrath.py
 desktop.ini
 __pycache__/
+.gitignore
+
