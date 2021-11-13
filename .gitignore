@@ -3,4 +3,10 @@ scrath.py
 desktop.ini
 __pycache__/
 .gitignore
+.idea/.gitignore
+.idea/git-learning.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
 
